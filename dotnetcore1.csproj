@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
-
   <PropertyGroup>
+    <ProjectGuid>{c79f7352-f635-4bb5-8024-3e3ad77cb7a4}</ProjectGuid>
     <Version>0.1.0</Version>
     <AssemblyName>dotnetcoreapp</AssemblyName>
     <TargetFramework>netcoreapp2.2</TargetFramework>
@@ -9,5 +9,4 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
   </ItemGroup>
-
 </Project>
