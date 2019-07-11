@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:2.2
+FROM ipcrm/docker-base-testing-things:latest
 WORKDIR /app
 
 COPY . .
