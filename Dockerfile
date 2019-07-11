@@ -1,4 +1,4 @@
-FROM ipcrm/docker-base-testing-things:latest
+FROM ipcrm/docker-base-testing-things:0.0.1-master.20190710233756
 WORKDIR /app
 
 COPY . .
