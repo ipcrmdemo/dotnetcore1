@@ -10,7 +10,10 @@ This project is driven using the `dotnet` core CLI utility.
 
 ### Run locally
 ff
-You can run the service locally using the following from the command:
+You can run the service local
+
+
+ly using the following from the command:
 
 ```
 $ dotnet run
